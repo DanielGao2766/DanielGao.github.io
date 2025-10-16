@@ -1,1 +1,1 @@
-https://danielgao2766.github.io/portfolio/
+https://danielgao2766.github.io
