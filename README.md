@@ -7,7 +7,7 @@ TODO: https://adithyasolai.medium.com/golden-summer-plan-for-cs-majors-6d3e606c6
       https://offers.hubspot.com/coding-templates?utm_source=youtube&utm_medium=social&utm_campaign=CR00487Nov2024_TechWithTim%2Fpartner_youtube
 
 
-      - Backtracking and Recursion → https://lnkd.in/g7mpWsqj
+- Backtracking and Recursion → https://lnkd.in/g7mpWsqj
 – Sliding Window → https://lnkd.in/gFxF6XvH
 – Two Pointers → https://lnkd.in/ghFar3MN
 – Hash Table → https://lnkd.in/gujURUw4
@@ -19,3 +19,9 @@ TODO: https://adithyasolai.medium.com/golden-summer-plan-for-cs-majors-6d3e606c6
 – Stack / Monotonic Stack → https://lnkd.in/gtKYCH-p
 – Bit Manipulation → https://lnkd.in/gueux4tX
 – BFS + DFS → https://lnkd.in/gMmbJi7c
+
+
+Do this during Thanksgiving
+https://docs.djangoproject.com/en/4.2/intro/tutorial01/
+https://www.cs3240.org/modules/intro/indroduction/
++ DSA repo
