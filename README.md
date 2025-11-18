@@ -24,4 +24,3 @@ TODO: https://adithyasolai.medium.com/golden-summer-plan-for-cs-majors-6d3e606c6
 Do this during Thanksgiving
 https://docs.djangoproject.com/en/4.2/intro/tutorial01/
 https://www.cs3240.org/modules/intro/indroduction/
-+ DSA repo
